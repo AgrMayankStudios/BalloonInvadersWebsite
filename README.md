@@ -1,2 +1,2 @@
 # BalloonInvadersWebsite
-Website for Balloon Invaders game
+Website for Balloon Invaders AR game.
