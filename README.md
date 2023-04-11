@@ -4,6 +4,7 @@ A Highly Addictive Balloon Popping Game with a Twist – Balloons are in your RO
 
 # Download
 Play Store - [https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders](https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders)
+JioGlass - TBA
 
 # About
 A classic balloon shooting game for kids to shoot the balloons that have invaded the living room 🎈.
@@ -22,4 +23,4 @@ There are multiple kinds of balloons, having different colours and points. Pop a
 • Compete with friends in the Leaderboard for the top spot.<br>
 • Get rewarded with Achievements for completing the tasks.<br>
 
-[Privacy Policy](https://ballooninvaders.agrmayank.com/privacypolicy.html) • [Terms and Conditions](https://ballooninvaders.agrmayank.com/termsandconditions.html)
+[Privacy Policy](https://ballooninvaders.agrmayank.com/privacypolicy.html) • [Terms and Conditions](https://ballooninvaders.agrmayank.com/termsandconditions.html) • [EULA](https://ballooninvaders.agrmayank.com/eula.html)
