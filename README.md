@@ -1,10 +1,10 @@
-# Balloon Invaders AR
+# Balloon Invaders
 A Highly Addictive Balloon Popping Game with a Twist – Balloons are in your ROOM!
-
 
 # Download
 Play Store - [https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders](https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders)
-JioGlass - TBA
+
+JioDive - [https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders.JioGlass.Dive](https://play.google.com/store/apps/details?id=com.AgrMayank.BalloonInvaders.JioGlass.Dive)
 
 # About
 A classic balloon shooting game for kids to shoot the balloons that have invaded the living room 🎈.
