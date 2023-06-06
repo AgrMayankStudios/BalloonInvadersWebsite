@@ -115,7 +115,7 @@ dd {
   margin: 0;
 }
 
-dd + dt {
+dd+dt {
   margin-top: 15px;
 }
 
@@ -280,11 +280,10 @@ a:hover {
   max-height: 0;
 
   -webkit-transition: max-height 0.5s ease-in-out;
-     -moz-transition: max-height 0.5s ease-in-out;
-       -o-transition: max-height 0.5s ease-in-out;
-          transition: max-height 0.5s ease-in-out;
+  -moz-transition: max-height 0.5s ease-in-out;
+  -o-transition: max-height 0.5s ease-in-out;
+  transition: max-height 0.5s ease-in-out;
 }
-
 
 @media (min-width: 800px) {
   .nav__toggle {
@@ -315,7 +314,7 @@ a:hover {
 
   color: #027194;
   background: #ebf7fd;
-  border: 1px solid rgba(45,112,145,0.3);
+  border: 1px solid rgba(45, 112, 145, 0.3);
   border-radius: 4px;
 }
 
@@ -341,7 +340,7 @@ a:hover {
   .grid__item--flexible {
     -webkit-box-flex: 1;
     -ms-flex: 1;
-        flex: 1;
+    flex: 1;
   }
 }
 
@@ -352,7 +351,8 @@ a:hover {
 .gallery {
   margin-left: -25px;
 
-  font-size: 0; /* Disable the small space below the images. */
+  font-size: 0;
+  /* Disable the small space below the images. */
 }
 
 .gallery__item {
@@ -424,7 +424,8 @@ a:hover {
 .video-player {
   position: relative;
 
-  padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 56.25%;
+  /* 16:9 */
 }
 
 .video-player__frame {
@@ -466,7 +467,7 @@ a:hover {
   padding: 5px 10px;
 
   background: -webkit-linear-gradient(top, white, #fafafa);
-  background:         linear-gradient(to bottom, white, #fafafa);
+  background: linear-gradient(to bottom, white, #fafafa);
   border: 1px solid #cccccc;
   border-radius: 5px;
 }
@@ -484,7 +485,7 @@ a:hover {
 .button:active {
   color: white;
   background: -webkit-linear-gradient(top, #3398ff, #0077dd);
-  background:         linear-gradient(to bottom, #3398ff, #0077dd);
+  background: linear-gradient(to bottom, #3398ff, #0077dd);
 }
 
 /* ---------------------------------------------------------- *\
